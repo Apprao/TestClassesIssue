@@ -8,4 +8,8 @@
         <members>CommunitiesLandingControllerTest</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>newFolder3/TestReport2</members>
+        <name>Report</name>
+    </types>
 </Package>
