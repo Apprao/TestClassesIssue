@@ -10,6 +10,7 @@
     </types>
     <types>
         <members>newFolder3/TestReport2</members>
+        <members>newFolder5/TestReport</members>
         <name>Report</name>
     </types>
 </Package>
